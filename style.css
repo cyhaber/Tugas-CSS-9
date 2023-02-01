@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+    height: 170vh;
+    z-index: 99;
+    position: absolute;
+    float: left;
+}
+
+div {
+    z-index: 999;
+    position: absolute;
+    float: right;
+    top: 0;
+    right: 0;
+    margin: 1px;
+    background-color: white;
+    text-align: center;
+    font-weight: bold;
+    width: 70% ;
+    font-size: 10px;
+}
